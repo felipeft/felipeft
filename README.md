@@ -6,8 +6,10 @@
 
 <div align="left">
   <a href="https://github.com/felipeft">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeft&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeft&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=felipeft&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <!--<img height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeft&layout=compact&langs_count=7&theme=dark"/>-->
+    <img align="right" alt="felipe-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/482937544833499136/482937544833499138/1004131850425487460](https://cdn.discordapp.com/attachments/482937544833499138/1004131850136064010/272676903Baby-03-june.gif">
+    
 </div>
 
 <div style="display: inline_block"><br>
@@ -15,7 +17,7 @@
   <img align="center" alt="felipeft-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="felipeft-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="felipeft-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
-  <img align="right" alt="felipe-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/482937544833499136/482937544833499138/1004131850425487460">
+  
 </div>
 
   ##
