@@ -5,7 +5,8 @@
 - 📫 How to reach me: felipeflw11@gmail.com
 
 <div align="left">
-  <a href="https://github.com/felipeft" target="_blank"><img height="200em" src="https://github-readme-stats.vercel.app/api?username=felipeft&show_icons=true&theme=dark&include_all_commits=true&count_private=true" target="_blank"></a>
+  <a href="https://github.com/felipeft">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=felipeft&show_icons=true&theme=dark&include_all_commits=true&count_private=true"></a>
   <img height="200em" alt="felipeft-gif" src="https://media0.giphy.com/media/5X7GDf7zc1Ebu/200w.gif"/>
 </div>
 
