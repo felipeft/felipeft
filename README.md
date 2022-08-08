@@ -6,7 +6,7 @@
 
 <div align="left">
   <a href="https://github.com/felipeft">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=felipeft&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"></a>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=felipeft&show_icons=true&theme=dark&include_all_commits=true&count_private=true"></a>
   <img height="200em" alt="felipeft-gif" src="https://media0.giphy.com/media/5X7GDf7zc1Ebu/200w.gif"/>
 </div>
 
