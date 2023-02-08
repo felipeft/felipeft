@@ -1,7 +1,7 @@
 ### Hi, I'm Felipe Feitosa
 
 - 🔭 I’m currently working on development for embedded systems
-- 🌱 I’m currently learning JAVA OOP
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: felipeflw11@gmail.com
 
 <div align="left">
