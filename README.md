@@ -1,7 +1,7 @@
 ### Hi, I'm Felipe Feitosa
 
 - 🔭 I’m currently working on development for embedded systems
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning VHDL
 - 📫 How to reach me: felipeflw11@gmail.com
 
 <div align="left">
