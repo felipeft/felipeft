@@ -7,7 +7,7 @@
 ---
 
 🔧 **What I'm up to:**  
-- 🚀 Working on projects in **embedded systems development**  
+- 🚀 Working on projects in **Machine learning**  
 - 🤖 Exploring **data science**, with a special focus on **machine learning**  
 - 📬 Reach out: **felipeflw11@gmail.com**
 - 📊 My profile on Kaggle: https://www.kaggle.com/felipeft
