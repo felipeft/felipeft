@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Felipe Feitosa 🇧🇷
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-feitosa-teixeira-7894a020a/)](https://www.linkedin.com/in/felipe-feitosa-teixeira-7894a020a/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-feitosa-teixeira-7894a020a/)](https://www.linkedin.com/in/felipe-ft/)
 
 💁 I'm **Felipe Feitosa**, a tech enthusiast passionate about embedded systems, data science, and machine learning. I'm based in Brazil 🇧🇷.
 
