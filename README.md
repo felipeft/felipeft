@@ -7,7 +7,7 @@
 ---
 
 🔧 **What I'm up to:** 
-- 🚀 Building scalable web applications (**Full Stack / Backend**) and **Data Engineering** pipelines.
+- 🚀 Building **Data Engineering** pipelines and **Machine Learning** projects.
 - 🤖 Exploring **data science**, with a special focus on **machine learning** and MLOps.
 - 📬 Reach out: **felipeflw11@gmail.com**
 - 📊 My profile on Kaggle: https://www.kaggle.com/felipeft
