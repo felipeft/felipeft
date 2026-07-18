@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-feitosa-teixeira-7894a020a/)](https://www.linkedin.com/in/felipe-ft/)
 
-💁 I'm **Felipe Feitosa**, a tech enthusiast passionate about Full Stack Development, Data Engineering, Machine Learning, and Embedded Systems. I'm based in Brazil 🇧🇷.
+💁 I'm **Felipe Feitosa**, a tech enthusiast passionate about Data Science, Data Engineering, Machine Learning, and Embedded Systems. I'm based in Brazil 🇧🇷.
 
 ---
 
